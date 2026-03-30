@@ -1,35 +1,74 @@
-<h1 align="center">Hi 👋, I'm Mubashir Dawood</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirdawood&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirdawood" /> </p> 
+# Hi 👋, I'm Mubashir Dawood
 
+### A passionate developer from Pakistan
 
+<img src="https://komarev.com/ghpvc/?username=mubashirdawood&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
+### About
 
 - 🔭 I’m currently working on [No Code Ai Chatbot Builder](https://ai-chatbot-builder-mini-saas.vercel.app/)
-
-- 🌱 I’m currently learning **Next.js , IT AUtomation with pyrhon**
-
-- 💬 Ask me about **React.js, Ai Automation, Java, C/C++, Bootstrap, Tailwind**
-
+- 🌱 I’m currently learning **Next.js**, **IT Automation with Python**
+- 💬 Ask me about **React.js, AI Automation, Java, C/C++, Bootstrap, Tailwind**
 - 📫 How to reach me **mubashirdawood05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Languages and Tools (Grid View)
+
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="10" align="center">
+    <tr>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap" width="40" height="40"/><br/><sub>Bootstrap</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/c-programming.png" alt="c" width="40" height="40"/><br/><sub>C</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/c-plus-plus.png" alt="cplusplus" width="40" height="40"/><br/><sub>C++</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/css3.png" alt="css3" width="40" height="40"/><br/><sub>CSS3</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/express-js.png" alt="express" width="40" height="40"/><br/><sub>Express</sub></td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/figma--v1.png" alt="figma" width="40" height="40"/><br/><sub>Figma</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/git.png" alt="git" width="40" height="40"/><br/><sub>Git</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5" width="40" height="40"/><br/><sub>HTML5</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="illustrator" width="40" height="40"/><br/><sub>AI</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java" width="40" height="40"/><br/><sub>Java</sub></td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" width="40" height="40"/><br/><sub>JavaScript</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" width="40" height="40"/><br/><sub>MongoDB</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql" width="40" height="40"/><br/><sub>MySQL</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs" width="40" height="40"/><br/><sub>Next.js</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" width="40" height="40"/><br/><sub>Node.js</sub></td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="photoshop" width="40" height="40"/><br/><sub>PS</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/python--v1.png" alt="python" width="40" height="40"/><br/><sub>Python</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/react-native.png" alt="react" width="40" height="40"/><br/><sub>React</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwind" width="40" height="40"/><br/><sub>Tailwind</sub></td>
+      <td align="center" bgcolor="#f9f9f9" width="80"><img src="https://img.icons8.com/color/48/zapier.png" alt="zapier" width="40" height="40"/><br/><sub>Zapier</sub></td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirdawood&theme=tokyonight&hide_border=true&ring=38bdf8&fire=F59E0B&currStreakLabel=38bdf8" alt="GitHub streak" />
+
+</div>
+
+---
+
+### Connect with me
+
 <p align="left">
-<a href="https://linkedin.com/in/mubashir-dawood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashir-dawood" height="30" width="40" /></a>
-<a href="https://instagram.com/mubashir_dawood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashir_dawood" height="30" width="40" /></a>
-<a href="mailto:mubashirdawood05@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" height="30" width="40" /></a>
-
-<h3 align="center" >Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" background-color="grey" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirdawood&" alt="mubashirdawood" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mubashir-dawood" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=D4AF37&color=black" alt="mubashir-dawood" height="40" /></a>
-<a href="https://instagram.com/mubashir_dawood" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=D4AF37&color=black" alt="mubashir_dawood" height="40" /></a>
-<a href="mailto:mubashirdawood05@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=D4AF37&color=black" alt="email" height="40" /></a>
-<a href="https://mubashir-dawood.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37&color=black" alt="portfolio" height="40" /></a>
+  <a href="https://linkedin.com/in/mubashir-dawood" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=D4AF37&color=0f172a" alt="LinkedIn" height="40" /></a>
+  <a href="https://instagram.com/mubashir_dawood" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=D4AF37&color=0f172a" alt="Instagram" height="40" /></a>
+  <a href="mailto:mubashirdawood05@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=D4AF37&color=0f172a" alt="Gmail" height="40" /></a>
+  <a href="https://mubashir-dawood.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37&color=0f172a" alt="Portfolio" height="40" /></a>
 </p>
