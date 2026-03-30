@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubashir Dawood</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirdawood&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirdawood" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirdawood&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirdawood" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubashirdawood" alt="mubashirdawood" /></a> </p>
 
@@ -28,3 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashirdawood&show_icons=true&locale=en" alt="mubashirdawood" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirdawood&" alt="mubashirdawood" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mubashir-dawood" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=D4AF37&color=black" alt="mubashir-dawood" height="40" /></a>
+<a href="https://instagram.com/mubashir_dawood" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=D4AF37&color=black" alt="mubashir_dawood" height="40" /></a>
+<a href="mailto:mubashirdawood05@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=D4AF37&color=black" alt="email" height="40" /></a>
+<a href="https://mubashir-dawood.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37&color=black" alt="portfolio" height="40" /></a>
+</p>
