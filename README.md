@@ -10,7 +10,7 @@
 
 ---
 
-### About
+### About me
 
 - 🔭 I’m currently working on [No Code Ai Chatbot Builder](https://ai-chatbot-builder-mini-saas.vercel.app/)
 - 🌱 I’m currently learning **Next.js**, **IT Automation with Python**
