@@ -19,7 +19,7 @@
 
 ---
 
-### Languages and Tools (Grid View)
+### Languages and Tools
 
 <p align="center">
   <table border="0" cellspacing="0" cellpadding="10" align="center">
