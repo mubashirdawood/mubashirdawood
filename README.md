@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mubashir Dawood
 
-### Software Engineer from Pakistan
+### Software Engineer  from Pakistan
 
 <img src="https://komarev.com/ghpvc/?username=mubashirdawood&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" />
 
