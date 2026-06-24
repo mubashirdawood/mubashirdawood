@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Mubashir Dawood
+# Hi , I'm Mubashir Dawood
 
 ### Software Engineer  from Pakistan
 
