@@ -13,7 +13,8 @@
 ### About me
 
 - 🔭 I’m currently working on [ Ai Chatbot Builder -SAAS ](https://tryaibotbuilder.com/)
-- 🌱 Full-Stack Web Developer & AI Integration | Next js | MERN | Open to internships & freelance work | Building tryaibotbuilder.com
+- 🌱 Full-Stack Web Developer & AI Integration | Next js | MERN | LLM | n8n 
+- 💬 Open to internships & freelance work | Building SaaS: (https://tryaibotbuilder.com/)
 - 💬 Ask me about **React.js,Next js, MERN, AI Automation, Java, C/C++, Bootstrap, Tailwind**
 - 📫 How to reach me **mubashirdawood05@gmail.com**
 
