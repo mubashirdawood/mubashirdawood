@@ -2,7 +2,7 @@
 
 # Hi , I'm Mubashir Dawood
 
-### Software Engineer  from Pakistan
+### Software Engineer  
 
 <img src="https://komarev.com/ghpvc/?username=mubashirdawood&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" />
 
@@ -12,7 +12,7 @@
 
 ### About me
 
-- 🔭 I’m currently working on [ Ai Chatbot Builder -SAAS ](https://tryaibotbuilder.com/)
+- 🔭 I’m currently working on [ Ai Chatbot Builder -{Platform where you can build RAG chatbots without any code} ](https://tryaibotbuilder.com/)
 - 🌱 Full-Stack Web Developer & AI Integration | Next js | MERN | LLM | n8n 
 - 💬 Open to internships & freelance work | Building SaaS: (https://tryaibotbuilder.com/)
 - 💬 Ask me about **React.js,Next js, MERN, AI Automation, Java, C/C++, Bootstrap, Tailwind**
